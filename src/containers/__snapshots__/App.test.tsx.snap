@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders app template 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="text-3xl font-bold underline"
+  >
+    React - TypeScript - Tailwind Starter Kit
+  </div>
+</div>
+`;
